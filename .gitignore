@@ -1,0 +1,18 @@
+# macOS / Windows
+.DS_Store
+Thumbs.db
+
+# Node / tooling
+node_modules/
+npm-debug.log*
+.yarn/
+.pnpm-store/
+dist/
+build/
+
+# Local Flowise runtime & env
+.flowise/
+.env
+.env.local
+.env.development
+.env.production
